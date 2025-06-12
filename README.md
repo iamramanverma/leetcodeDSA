@@ -46,6 +46,7 @@ Each file inside this repository represents a LeetCode problem I've solved, alon
 - 💼 [LinkedIn - Raman Verma](https://www.linkedin.com/in/raman-verma-5676ba2a8/)
 - 📂 [LeetCode Profile](https://leetcode.com/iamramanverma/)
 - 💬 [GitHub Discussions](https://github.com/iamramanverma)
+- 🛬 [Freelancer - Raman Verma](https://www.freelancer.in/u/iamramanverma)
 
 ---
 
