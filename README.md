@@ -3,7 +3,7 @@
 Welcome to my **LeetCode DSA Practice Repository**!  
 I'm Raman Verma, a software developer consistently solving DSA problems on LeetCode using **C++**. This repo contains my **daily solutions** with clean and efficient code.
 
-## 🔥 Current Streak: 36 Days
+## 🔥 Current Streak: 40 Days
 > 📅 Daily Commit | 💻 LeetCode Practice | 📚 Learning by Doing
 
 ---
